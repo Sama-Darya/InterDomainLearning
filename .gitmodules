@@ -1,0 +1,9 @@
+[submodule "clBP"]
+	path = clBP
+	url = https://github.com/Sama-Darya/clBP.git
+[submodule "RoboNet"]
+	path = RoboNet
+	url = https://github.com/bmanga/RoboNet.git
+[submodule "enki-1"]
+	path = enki-1
+	url = https://github.com/Sama-Darya/enki-1.git
