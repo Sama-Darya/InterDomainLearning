@@ -1,4 +1,4 @@
-# clbp-publication
+# InterDomainLearning
 
 This repository is made up of a series of submodules. Make sure all submodules are initialised and cloned.
 You can use the command ``git submodule update --init --recursive`` to do so after cloning.
