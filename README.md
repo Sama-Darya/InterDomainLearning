@@ -6,7 +6,7 @@ You can use the command ``git submodule update --init --recursive`` to do so aft
 ## Building the physical robot example
 The physical sumo robot implementation consists of two parts: The computer controller (RoboNet) that generated the steering command  and the arduino sketch that controls the robot's servo motors.
 
-The sketch to upload to the Arduino is provided in [[TODO]]
+The sketch to upload to the Arduino is provided in ``SumoRobot``, where instructions are also provided to build the physical robot.
 
 ### Building RoboNet
 RoboNet has the following dependencies that must be installed:
